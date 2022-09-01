@@ -1,4 +1,4 @@
-# Cross Validation Method and Linear Regression
+# Coding Cross Validation and Linear Regression from Scratch
 
 Cross-validation is a statistical method used to estimate machine learning models' performance (e.g., accuracy). It is used to prevent overfitting in a predictive model, particularly in cases where the number of data points is limited. In cross-validation, you make a fixed number of folds of the data, run the analysis on each fold, and then average the overall error estimate.
 
